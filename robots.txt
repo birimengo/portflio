@@ -1,14 +1,4 @@
 User-agent: *
 Allow: /
-Allow: /index.html
-Allow: /*.css
-Allow: /*.js
-Allow: /*.png
-Allow: /*.jpg
-Allow: /*.svg
 
-# Sitemap location
-Sitemap: https://birimengoivan.com/sitemap.xml
-
-# Crawl delay (optional)
-Crawl-delay: 1
+Sitemap: https://eng-birimengo.vercel.app/sitemap.xml
